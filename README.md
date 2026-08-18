@@ -34,9 +34,9 @@ The assessment was performed as part of my cybersecurity portfolio to demonstrat
 
 - Google Chrome
 - ChromeOS Settings
-- Storage Management
+- Chrome Storage Management
 - Chrome Privacy & Security Settings
-- Chrome Extensions
+- Chrome Safety Check
 - GitHub
 
 ---
@@ -49,17 +49,84 @@ The following areas were reviewed during this assessment:
 - Browser Security Settings
 - Installed Applications
 - Storage Utilization
-- Chrome Extensions
-- Privacy Configuration
+- Privacy & Security Settings
+- Wi-Fi Configuration
+- Chrome Safety Check
 
 ---
 
 ## 📸 Evidence
 
-Screenshots collected during the assessment include:
+### Storage Management
 
-- ChromeOS Version
-- Storage Management
-- Installed Applications
-- Privacy & Security Settings
-- Chrome Extensions
+[View Screenshot](screenshots/README.md#storage-management)
+
+---
+
+### Installed Applications
+
+[View Screenshot](screenshots/README.md#installed-applications)
+
+---
+
+### Chrome Safety Check
+
+[View Screenshot](screenshots/README.md#chrome-safety-check)
+
+---
+
+### Privacy & Security Settings
+
+[View Screenshot](screenshots/README.md#privacy--security-settings)
+
+---
+
+### Wi-Fi Settings
+
+[View Screenshot](screenshots/README.md#wi-fi-settings)
+
+---
+
+### Linux Installation Error
+
+[View Screenshot](screenshots/README.md#linux-installation-error)
+
+---
+
+## 📄 Project Files
+
+- **README.md** – Project overview and documentation
+- **findings.md** – Security findings discovered during the assessment
+- **recommendations.md** – Recommended remediation steps
+- **screenshots/** – Evidence collected during the assessment
+
+---
+
+## 🔐 Key Skills Demonstrated
+
+- Security Assessment
+- Security Documentation
+- Risk Identification
+- ChromeOS Administration
+- Browser Security Review
+- System Configuration Analysis
+- Technical Writing
+- Git & GitHub
+- Markdown Documentation
+
+---
+
+## 📚 Lessons Learned
+
+This project strengthened my understanding of ChromeOS security by reviewing browser protections, system settings, storage utilization, and installed applications. It also improved my technical documentation skills by creating professional findings, recommendations, and evidence suitable for a cybersecurity portfolio.
+
+---
+
+## 👤 Author
+
+**Jaliah Johnson**
+
+Cybersecurity Student | Cisco Certified Support Technician (CCST) | Fortinet Certified Fundamentals (FCF)
+
+GitHub Portfolio:
+https://github.com/Jaijohnson97
